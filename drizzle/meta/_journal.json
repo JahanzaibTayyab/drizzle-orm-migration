@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1689486375247,
+      "tag": "0000_workable_rage",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1689486521036,
+      "tag": "0001_sparkling_starfox",
+      "breakpoints": true
+    }
+  ]
+}
